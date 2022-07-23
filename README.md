@@ -76,6 +76,9 @@ Happy coding!
 
 ### Useful links
 https://docs.python.org/3.7/library/email.parser.html
+
 https://enjoylifescience.com/2020/11/05/analyzing-emails-in-python/
+
 https://realpython.com/python-csv/
+
 https://docs.docker.com/storage/bind-mounts/
